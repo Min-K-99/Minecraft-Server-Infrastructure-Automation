@@ -5,8 +5,8 @@ In this project, we will automate the provisioning, configuration, and setup of 
 Before proceedings, make sure you have the following requirements in place:
 
  1. AWS Account: You will need an AWS account to provision the necessary resources.
- 2. AWS CLI: Install the AWS Command Line Interface (CLI) to interact with AWS services from the command line.
- 3. Terraform: Install Terraform to automate the provisioning of AWS resources.
+ 2. [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html): Install the AWS Command Line Interface (CLI) to interact with AWS services from the command line.
+ 3. [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli): Install Terraform to automate the provisioning of AWS resources.
 
 You will have to set-up your AWS credentials for Terraform to work:
 1.  Start your AWS Academy Learner Lab.
