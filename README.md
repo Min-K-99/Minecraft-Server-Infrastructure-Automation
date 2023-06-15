@@ -11,7 +11,7 @@ Before proceedings, make sure you have the following requirements in place:
 You will have to set-up your AWS credentials for Terraform to work:
 1.  Start your AWS Academy Learner Lab.
 2.  Click on "AWS Details" in the top right corner of your Learner Lab page.  
-    ![image.png]([https://canvas.oregonstate.edu/courses/1914651/files/98656010/preview](https://github.com/Min-K-99/Minecraft-Server-Infrastructure-Automation/blob/main/image%20(2).png))
+    ![image.png](https://github.com/Min-K-99/Minecraft-Server-Infrastructure-Automation/blob/main/image%20(2).png))
 3.  Create the file `~/.aws/credentials`  and copy the credentials from your "AWS Details" tab. Save the file.
 
 Another option (useful on Windows) is to use the CLI to setup the auth variables:
